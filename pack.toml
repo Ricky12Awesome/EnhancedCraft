@@ -1,0 +1,13 @@
+name = "Enhanced Craft"
+author = "Ricky12Awesome"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3d1efe8523aa69fc5abd28c3ac32c817fb1dcf2ae0d4b75b0a433379836df19d"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"
