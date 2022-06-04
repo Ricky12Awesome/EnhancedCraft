@@ -90,6 +90,8 @@
 
 [WTHIT](https://modrinth.com/mod/6AQIaxuO) - What the hell is that?
 
+[Ok Zoomer](https://modrinth.com/mod/aXf2OSFU) - Adds a highly-configurable zoom key for Fabric. The zoom is yours!
+
 [Architectury API (UNUSED)](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) - An intermediary api aimed to ease developing multiplatform mods.
 
 [Cloth Config API (UNUSED)](https://www.curseforge.com/minecraft/mc-mods/cloth-config-legacy) - Config Screen API for Fabric 1.14

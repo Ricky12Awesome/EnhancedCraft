@@ -1,8 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "8124065062983b5ddf1778c2734c0a9120db45da95ee593ebb623311de614eb5"
+
+[[files]]
 file = "README.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "2cc029d99a3c00a8af5c04464cdc673d58e1f8e6f66de5f87a8a5bc5f5f44379"
+
+[[files]]
+file = "config/cullleaves.json"
+hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
+
+[[files]]
+file = "config/mousewheelie.hjson"
+hash = "0ba9af9fe08b95294a1565704e0da5dc8dac4ef99aeae7021c981fd3bcb21169"
+
+[[files]]
+file = "modlist.md"
+hash = "be9b875384df922f06e3b733c4b851ffda7c10aa3d6e168f8c94443d9b0d0631"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
@@ -12,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/autoswitch.toml"
 hash = "ae0e66628e024ed2c44246f78652050c3bf18ceeb42c552c71f2f3104eb9f576"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "e6f7d05a47c717cbdef4b105f44d71b2f3202154e2517d6641d6661d01cad07c"
 metafile = true
 
 [[files]]
@@ -95,11 +116,6 @@ hash = "0e8bc51131e510743ce495452a58a79a6a1d5469e5644230c34abf1465456728"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.toml"
-hash = "37ae2e14a808e8668d356a2f5f53bad58b7f226e6936693b25dc7d6370f539c7"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
 metafile = true
@@ -121,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/inspecio.toml"
-hash = "04e52fb1abeb1921e2de71447db36a81947a1eeed6d4709ed5cbe48c03f7dcab"
+hash = "399e2642bdf663c6352d6560f4f48e903750e889e1b78c731d240caf0c6a2e28"
 metafile = true
 
 [[files]]
@@ -185,6 +201,11 @@ hash = "2d53c4af1ea8cb9b8db1104e16b227c775ef65ff47f0d459135a02dfc85db2e8"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "2c4643d064b78aa317a5a595923723bf15cd4aa947c9278406c0110be4b6d65b"
+metafile = true
+
+[[files]]
 file = "mods/perspektive.toml"
 hash = "6e45d0da036a2b8a4353b2a26b31eb0f2ba758822caafcb25b39d07f974a7501"
 metafile = true
@@ -202,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.toml"
 hash = "dcbec3700e3c99a70229cac7ef47f62281a112a5f884ac7e0a23a6a27cf94609"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "d29f3453270997e009cf7dc946594053b717c2eb6981d7a2515ab287751564d7"
 metafile = true
 
 [[files]]
@@ -271,4 +297,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "48f1cba0abcd4d45021d2742d2d1487acd8e9b5e68a092f612c55ed25db81a5d"
+hash = "a1f6c383d3aeb917e8bbc6a4ccc7a79178630314075a201a302319ac63c4a780"
