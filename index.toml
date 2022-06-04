@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2ed0458c1f09c92c401f0f36eeddb8fd893f7e66b461daa1d59ea436fb8d2316"
+hash = "652a6f02347af12ad23efcb780407aee0a3ba5bd60ec5d9d8c386e6b05a2f7a1"
 metafile = true
 
 [[files]]
@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.toml"
-hash = "1c4001eff34abec7ad25eac24b554bb8658cf849ab285f05611168a15c3479cc"
+hash = "8a399348ac3cf537118f171c78e464d83db3df13ce3dbafad1eb5050cb078acf"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.toml"
-hash = "c4de4c692a23561ce36ba4a932e7790d02b47be6f2eca8aefdc72ce23c232287"
+hash = "8086f62e390321e37c926d526bbbb5c2f603a17c2c3f54b752ec46fd071861d6"
 metafile = true
 
 [[files]]
@@ -91,12 +91,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.toml"
-hash = "3a604924cdf2de5d376cfeed9e5399ce2c7c8bc5bdf7e70aebbe20bf163f9e05"
+hash = "0e8bc51131e510743ce495452a58a79a6a1d5469e5644230c34abf1465456728"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
+hash = "37ae2e14a808e8668d356a2f5f53bad58b7f226e6936693b25dc7d6370f539c7"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "7d40bcc67b4a6c0e1e6e0d0d586ac506834c8df3e906e3a029c39836d5ef2821"
+hash = "a8870bf1740259a7392af3e5a8a001fe957e9cb3b6a7879a5acfe608d45eaf73"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "7486da78ccd788e6df69f762ee14db29fd533bf90b44969480ec1b112942e7fb"
+hash = "fec143d68112c0260e4964f50aad541afde432252cd3f748d4046267af558e67"
 metafile = true
 
 [[files]]
@@ -145,8 +145,18 @@ hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "4e7136bf019c6d6333acc30e0a57133c1f23d1585b6c15b9f7a3011beca81247"
+metafile = true
+
+[[files]]
 file = "mods/lithium.toml"
-hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "b5b47d70b94e6519b798ce3f172339bba1413ee64cb08c4f0559d0d83b38bed3"
 metafile = true
 
 [[files]]
@@ -156,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "6c8ae85a44ad6fbb5ad412073d3a32591e678fb70fb74d1aea525e9fdc15bcc7"
+hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
 metafile = true
 
 [[files]]
@@ -171,12 +181,12 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "2ed09c99ce518bb51f6bc954d8300f2496db356a0376b287bf2fc85eaf5bbb38"
+hash = "2d53c4af1ea8cb9b8db1104e16b227c775ef65ff47f0d459135a02dfc85db2e8"
 metafile = true
 
 [[files]]
 file = "mods/perspektive.toml"
-hash = "cf66e3bd88d3dfa9ab9b1120cb571c6a252466fedfd08cc951391282425d041c"
+hash = "6e45d0da036a2b8a4353b2a26b31eb0f2ba758822caafcb25b39d07f974a7501"
 metafile = true
 
 [[files]]
@@ -196,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.toml"
-hash = "c5a983620ec2c1a72c58d5a7ce74fdc76084cb8fa7bf1f18ca1ae11e27ded513"
+hash = "fe3b8b52b6f566c4ed5d17b42feff5503e5bb07b6163d45133ec1c115a147415"
 metafile = true
 
 [[files]]
@@ -211,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "8aa67b7d71db2e344dcae8427aa8742459e893705774e1941bed7fff04a8d892"
+hash = "ceb2e3aef3707deb09ecacee8af38fe2b45b4f33af91f06384144d81c343cfdf"
 metafile = true
 
 [[files]]
@@ -226,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "f8d262a27787b948f6ec71d548131bcac4a60adc616a78db852a40d6461563be"
+hash = "8a2f7bd4e0b892213e121ace77cbe399351a8c9d1ce12a8dc13973d9ec7a50dc"
 metafile = true
 
 [[files]]
@@ -236,17 +246,17 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.toml"
-hash = "ef3dc3153d1ef10b6ac6cd061fdeb0c50b55beaf5b65a6bd5e68fdcd40cccf7d"
+hash = "1fe9aa5d3d49e8a426236ba189b751a0421b8ea56eb890b9dc794f53aea915d4"
 metafile = true
 
 [[files]]
 file = "mods/spark.toml"
-hash = "157fc7b6721eb740dd5f214f8ca5669af8cff2135f58839ad326ef3f15b1c7be"
+hash = "2140367d53fc14e3223ffed3802bd3a0c6548208458e0dd4aecd040d8b04cf4e"
 metafile = true
 
 [[files]]
 file = "mods/tiefix.toml"
-hash = "e9e0ef79a7e8f04ac8a0312b09afc36520394e1f40d0fcb7cc528ab30de3db5e"
+hash = "82be603fd1c5c6b19b82a11d1bb8a227b02224f5abe71830d156512f442b4897"
 metafile = true
 
 [[files]]
@@ -256,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "f94b41695798cf547c3fe0e7afc2614e7954646fe51c87f7c7f1e8eeff6f3a90"
+hash = "c7aaa1a6c17b3a05f727ee143868595eab4fd3ac6348d2ceded5f04aa4d9fb6c"
 metafile = true
 
 [[files]]

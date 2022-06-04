@@ -1,12 +1,12 @@
 name = "Enhanced Craft"
 author = "Ricky12Awesome"
 version = "1.0.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3d1efe8523aa69fc5abd28c3ac32c817fb1dcf2ae0d4b75b0a433379836df19d"
+hash = "5334a17031ac11d5848803d876f4c85393c15dded7d864aff4435a301716596a"
 
 [versions]
 fabric = "0.13.3"
