@@ -1,4 +1,4 @@
-name = "Opti Craft"
+name = "Enchanced Craft"
 author = "Ricky12Awesome"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5f92e865bdade505502f0be03662522b14da0d3796c4851050b5f85ba6a8a394"
+hash = "913846558e98c6289e079316720adfe7df0a0802c2efc03656e7583ed012193c"
 
 [versions]
 minecraft = "1.19"
